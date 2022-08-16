@@ -1,4 +1,9 @@
-### Hi there 👋
+### The Project
+
+The overall goal of TROPIBIO is to expand the research and innovation potential of CIBIO-Research Centre in Biodiversity and Genetic Resources, through the creation of an ERA Chair in Tropical Biodiversity and Ecosystem Research, thereby building capacity to develop excellent research towards innovation, contributing to the conservation and sustainable use of biodiversity and ecosystems, and ultimately to sustainable socioeconomic development and the reduction of poverty in African countries. Taking advantage of historical and cultural link, the project is rooted on a network of TwinLabs, which are partnerships established with institutions from Portuguese-speaking African countries to jointly develop research, advanced training and capacity building.
+
+TROPIBIO will strengthen the TwinLabs network, thereby expanding research in tropical biodiversity assessment, conservation and sustainable use, and in tropical ecosystem function and services. The project builds on human resources and lab facilities supported by previous FP7 and H2020 projects, expanding their capacity to deal with complex challenges in the tropics. TROPIBIO will thus unlock the full potential of interdisciplinary research at CIBIO, while strengthening innovation and knowledge mobilization activities in close collaboration with organizations from Portuguese-speaking African countries.
+TROPIBIO will strongly increase the capacity of CIBIO to tackle pressing societal challenges related to the loss of biodiversity and ecosystem services, and to sustainable socioeconomic development, contributing the Sustainable Development Goals (SDG) of the United Nations (UN) 2030 Agenda and Agenda 2063 of the African Union (3). 
 
 <!--
 **CIBIO-TropiBIO/CIBIO-TropiBIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
