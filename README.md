@@ -19,7 +19,7 @@ TROPIBIO will strongly increase the capacity of CIBIO to tackle pressing societa
 
 ### Actual Projects
 
-- [Knowledge and Ignorance of Namibia's biodiversity](https://github.com/CIBIO-TropiBIO/Knowledge-and-Ignorance-of-Namibia-s-biodiversity) **Thainá Lessa**
+- [Knowledge and Ignorance of Namibia's biodiversity](https://github.com/CIBIO-TropiBIO/Knowledge-and-Ignorance-of-Namibia-s-biodiversity) ** - Thainá Lessa**
 
 ---
 
