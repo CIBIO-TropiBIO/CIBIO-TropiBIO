@@ -21,6 +21,7 @@ TROPIBIO will strongly increase the capacity of CIBIO to tackle pressing societa
 
 - [Knowledge and Ignorance of Namibia's biodiversity](https://github.com/CIBIO-TropiBIO/Knowledge-and-Ignorance-of-Namibia-s-biodiversity) - **Thainá Lessa**
 
+- [Culturomics approach to quantifying the salience of species](https://github.com/CIBIO-TropiBIO/Karoline) - **Karoline Azevedo**
 ---
 
 ### News & Events
