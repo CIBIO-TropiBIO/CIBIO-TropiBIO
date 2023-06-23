@@ -23,7 +23,7 @@ TROPIBIO will strongly increase the capacity of CIBIO to tackle pressing societa
 
 - [Culturomics approach to quantifying the salience of species](https://github.com/CIBIO-TropiBIO/Karoline) - **Anna Karoline Azevedo**
 
-- - [Using social media to understand public sentiment towards Brazilian National Parks](https://github.com/CIBIO-TropiBIO/Karoline) - **Carolina Neves Souza**
+- - [Using social media to understand public sentiment towards Brazilian National Parks]([https://github.com/CIBIO-TropiBIO/Karoline](https://github.com/CIBIO-TropiBIO/Sentiment-Analysis-Brazilian-National-Parks)) - **Carolina Neves Souza**
 ---
 
 ### News & Events
